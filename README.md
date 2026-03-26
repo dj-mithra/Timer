@@ -3,7 +3,7 @@
 A simple countdown timer built using HTML, CSS, and JavaScript.
 
 ## Live Demo
-(Will add after deployment)
+https://dj-mithra.github.io/Timer/
 
 ## Features
 - Start, Pause, Reset
