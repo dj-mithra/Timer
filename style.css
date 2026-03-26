@@ -1,0 +1,30 @@
+body { background: linear-gradient(135deg,
+#1e3c72 , #2a5298); font-family: 'Segoe UI', sans-serif;
+text-align: center;
+color: white;}
+.container {margin-top: 120px;}
+h1 {font-size: 40px;
+margin-bottom: 20px;}
+input {
+    padding: 12px;
+    border-radius: 12px;
+    border: none;
+    margin: 10px;
+    font-size: 16px;
+}
+button {padding: 12px 25px;
+background: #00c6ff;
+border: none;
+border-radius: 12px;
+cursor:pointer;
+font-size: 16px;
+color:black;
+}
+button:hover {background: #0072ff;
+color: white;
+}
+#display{
+    margin-top: 30px;
+    font-size: 60px;
+    font-weight: bold;
+}
